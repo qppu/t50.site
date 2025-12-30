@@ -38,9 +38,10 @@
  */
 
 var cnames_active = {
-  "mozahidul": "mozahidul.github.io",
-  "Shop": "shopnol.netlify.app",
   "Type_Domain_Name": "t50.site.github.io"
+  "mozahidul": "mozahidul.github.io",
+  "menmylove": "menmylove.github.io"
+  "Shop": "shopnol.netlify.app",
 }
 
   /*
